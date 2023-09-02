@@ -1,0 +1,36 @@
+/* h1 {
+    color: red;
+} */
+
+.tarjetas .card:hover {
+    background-color: rgb(61, 61, 199);
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.contenedor-imagen {
+    border-radius: 7rem 0;
+    overflow: hidden;
+}
+
+.tarjeta-2:hover {
+    background-color: #177EE7;
+    color: white;
+}
+
+.tarjeta-1:hover {
+    background-color: #265ED7;
+    border-radius: 2rem;
+    color: white;
+}
+
+.icono {
+    background-color: rgb(196, 195, 195);
+}
+
+.tarjeta-1:hover .icono {
+    background-color: #527CD9;
+}
